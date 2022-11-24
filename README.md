@@ -29,16 +29,11 @@ These interfaces are called content management systems (CMS). This interface all
       
 ---       
 ## Description
-This project allows to the user to generate a README file combining require, inquirer, html and l
+This project allows to the user to generate a README file combining require, inquirer, and html.
 
-- What was your motivation?
-This project is an amazing opportunity to develop a deep knowdledge about Nodejs, how to use inquirer and require package, beside that, this project allows to the students to put in practice in real time project, all this tools together in order to get genearate a README file.
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-I built this project because it will allow me to learn to generate a README file. The README file is very important for any project on Github, because it's the best way to let the users to understand our projects with all the important details.
-- What problem does it solve?
-The problems I faced meanwhile I was developing this project was to understand the way require and inquirer work. Also, It was a little difficult for me to find the best way to generate a README file because I was getting some extra characters in the generated file and it was difficult to read it.
-- What did you learn?
-I learned to combine require and inquirer. How important and useful is inquirer package in order to get information from the user and also, how useful is the require package in order to read and create files.
+- In this project we are using the MySQL2 package Links to an external site.to connect to our MySQL database and perform queries, the Inquirer package Links to an external site to interact with the user via the command line, and the console table package Links to an external site to print MySQL rows to the console.
+- A file is created which contains our database credentials. Making sure that our MySQL password is not used for any other personal accounts, otherwise it will be visible on GitHub. 
+- Part of this project is to make our queries asynchronous. MySQL2 exposes a promise() function on Connections to upgrade an existing non-Promise connection to use Promises. 
 
 ---    
 ## Installation
