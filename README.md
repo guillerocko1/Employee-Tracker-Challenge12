@@ -1,8 +1,9 @@
+
+# Challenge 12 - Employee - Tracker - Challenge12
 # 
 These interfaces are called content management systems (CMS). This interface allows to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 
-# Challenge 12 - Employee - Tracker - Challenge12
-![MIT](https://img.shields.io/badge/license-MIT-blue)
+
      
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=guillerocko1&style=flat-square&color=blue" alt=""/>
