@@ -57,20 +57,15 @@ The steps requiered to run this application are the followings:
       
 # Following the steps on the video, select any option from the menu and enter the Information required by the App.  
 
+## Email address: <a href = "(https://www.youtube.com/watch?v=-fi4E9cJMj4)">https://www.youtube.com/watch?v=-fi4E9cJMj4</a>
+
+
 
 ---          
 ## Repository_Link
-      
-#    https://github.com/guillerocko1/Employee-Tracker-Challenge12  
 
-
----          
-## Screenshots
-      
-#    https://github.com/guillerocko1/Employee-Tracker-Challenge12  
-                                   
-                                   
-            
+## Email address: <a href = "(https://github.com/guillerocko1/Employee-Tracker-Challenge1)">(https://github.com/guillerocko1/Employee-Tracker-Challenge1)</a>
+                                          
 ## Credits
             
 These are some links of tools used to build this app.
