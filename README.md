@@ -22,7 +22,6 @@ These interfaces are called content management systems (CMS). This interface all
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Contributing](#contributing)
 - [Test](#test)
 - [Questions](#questions)
@@ -39,59 +38,36 @@ This project allows to the user to generate a README file combining require, inq
 ## Installation
 ---
 # Installation
-run the index js, generate the README file and after that upload the README file to Github
+run the server.js, then the menu will be shown on the screen.
                   
 The steps requiered to run this application are the followings:
-- Make sure you are in the index.js directory.
+- Make sure you are in the server.js directory.
 - Open the terminal 
-- Type node index
-- Answer all the information that will fill out the README file .
-- Once the information is completed, the README file will be generated.
+- Type node server
+- Select the option from the menu you want to be executed
+- Enter the Information requiered by the app.
+- The app will get the Information from the Database and it will be shown to the user.
             
             
 ---          
 ## Usage
       
-# Following the steps on the video, answering the questions on the terminal
-      
-Provide instructions and examples for use. Include screenshots as needed.
-            
-To add a screenshot, create an (image directory) folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-                           
+# Following the steps on the video, select any option from the menu and enter the Information required by the App.      
+                                   
             
 ## Credits
             
-List your collaborators, if any, with links to their GitHub profiles.
+These are some links of tools used to build this app.
             
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
             
 If you followed tutorials, include links to those here as well.
             
 Links used to develop this application:
-- https://www.npmjs.com/package/inquirer/v/8.2.4
-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github#enabling-fixed-width-fonts-in-the-editor
--https://nodejs.org/api/fs.html#fswritefd-string-position-encoding-callback
+- https://www.npmjs.com/package/mysql2
+- https://www.npmjs.com/package/inquirer
+- https://www.npmjs.com/package/console.table
+
       
----     
-## License
-      
-# MIT
-
----             
-## MIT License
-The MIT License is a permissive free software license originating at the Massachusetts Institute of Technology (MIT)[6] in the late 1980s.[7] As a permissive license, it puts only very limited restriction on reuse and has, therefore, high license compatibility
-
----
-## GPL License
-The GNU General Public License (GNU GPL or simply GPL) is a series of widely used free software licenses that guarantee end users the four freedoms to run, study, share, and modify the software.[7] The license was the first copyleft for general use and was originally written by the founder of the Free Software Foundation (FSF), Richard Stallman, for the GNU Project. 
----
-## BSD License
-BSD licenses are a family of permissive free software licenses, imposing minimal restrictions on the use and distribution of covered software. This is in contrast to copyleft licenses, which have share-alike requirements. The original BSD license was used for its namesake, the Berkeley Software Distribution (BSD), a Unix-like operating system. The original version has since been revised, and its descendants are referred to as modified BSD licenses.
- 
----Apache License
-The Apache License is a permissive free software license written by the Apache Software Foundation (ASF).It allows users to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of the software under the terms of the license, without concern for royalties. The ASF and its projects release their software products under the Apache License. The license is also used by many non-ASF projects.
-
             
 ---          
 ## Contributing
