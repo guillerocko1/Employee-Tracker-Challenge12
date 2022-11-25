@@ -110,4 +110,7 @@ If you created an application or package and would like other developers to cont
 ## Questions
 
 ## Github username: guillerocko1
+
+## Github profile: 
+ <a href = "(https://github.com/guillerocko1)">(https://github.com/guillerocko1)</a>
 ## Email address: <a href = "mailto: guillermorocko@gmail.com">guillermorocko@gmail.com</a>
