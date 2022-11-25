@@ -58,7 +58,7 @@ The steps requiered to run this application are the followings:
       
 # Following the steps on the video, select any option from the menu and enter the Information required by the App.  
 
-## Email address: <a href = "(https://www.youtube.com/watch?v=-fi4E9cJMj4)">https://www.youtube.com/watch?v=-fi4E9cJMj4</a>
+## Video Link: <a href = "(https://www.youtube.com/watch?v=-fi4E9cJMj4)">https://www.youtube.com/watch?v=-fi4E9cJMj4</a>
 
 
 
