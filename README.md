@@ -64,7 +64,7 @@ The steps requiered to run this application are the followings:
 ---          
 ## Repository_Link
 
-## Email address: <a href = "(https://github.com/guillerocko1/Employee-Tracker-Challenge12)">(https://github.com/guillerocko1/Employee-Tracker-Challenge12)</a>
+## Repository_Link: <a href = "(https://github.com/guillerocko1/Employee-Tracker-Challenge12)">(https://github.com/guillerocko1/Employee-Tracker-Challenge12)</a>
                                           
 ## Credits
             
