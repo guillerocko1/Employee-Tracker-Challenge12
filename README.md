@@ -21,8 +21,8 @@ These interfaces are called content management systems (CMS). This interface all
 ---
 - [Description](#description)
 - [Installation](#installation)
-- [Video Link](#Video Link)
-- [Repository Link](#Repository Link)
+- [Video_Link](#Video Link)
+- [Repository_Link](#Repository Link)
 - [Screenshots](#Screenshots)
 - [Credits](#credits)
 - [Contributing](#contributing)
