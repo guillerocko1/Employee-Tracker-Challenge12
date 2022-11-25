@@ -46,6 +46,7 @@ run the server.js, then the menu will be shown on the screen.
 The steps requiered to run this application are the followings:
 - Make sure you are in the server.js directory.
 - Open the terminal 
+- Type npm i to install the node module.
 - Type node server
 - Select the option from the menu you want to be executed
 - Enter the Information requiered by the app.
