@@ -51,9 +51,15 @@ The steps requiered to run this application are the followings:
             
             
 ---          
-## Usage
+## Video Link
       
-# Following the steps on the video, select any option from the menu and enter the Information required by the App.      
+# Following the steps on the video, select any option from the menu and enter the Information required by the App.  
+
+
+---          
+## Repository Link
+      
+#    https://github.com/guillerocko1/Employee-Tracker-Challenge12  
                                    
             
 ## Credits
