@@ -66,12 +66,6 @@ The steps requiered to run this application are the followings:
       
 #    https://github.com/guillerocko1/Employee-Tracker-Challenge12  
 
-
----          
-## Screenshots
-      
-#    https://github.com/guillerocko1/Employee-Tracker-Challenge12  
-                                   
                                    
             
 ## Credits
