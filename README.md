@@ -22,6 +22,7 @@ These interfaces are called content management systems (CMS). This interface all
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Credits](#credits)
 - [Contributing](#contributing)
 - [Test](#test)
 - [Questions](#questions)
