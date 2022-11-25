@@ -21,7 +21,9 @@ These interfaces are called content management systems (CMS). This interface all
 ---
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Video Link](#Video Link)
+- [Repository Link](#Repository Link)
+- [Screenshots](#Screenshots)
 - [Credits](#credits)
 - [Contributing](#contributing)
 - [Test](#test)
@@ -60,6 +62,13 @@ The steps requiered to run this application are the followings:
 ## Repository Link
       
 #    https://github.com/guillerocko1/Employee-Tracker-Challenge12  
+
+
+---          
+## Screenshots
+      
+#    https://github.com/guillerocko1/Employee-Tracker-Challenge12  
+                                   
                                    
             
 ## Credits
